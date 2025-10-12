@@ -32,7 +32,7 @@ export default function About() {
   animate={{ y: 0, opacity: 1 }}
   transition={{ duration: 0.6, delay: 0.4 }}
 >
-  LATX Transportation is an Austin, Texas–based non-emergency medical transportation provider proudly serving Central Texas and surrounding areas. With a growing team and strong dedication to patient care, we take pride in offering safe, reliable, and compassionate ambulatory and wheelchair transportation.
+  LATX Transportation is an Austin, Texas–based non-emergency medical transportation provider proudly serving Central Texas and surrounding areas. With a growing team and strong dedication to patient care, we take pride in offering safe, reliable, and compassionate ambulatory and wheelchair transportations.
 </motion.p>
 
       </section>
