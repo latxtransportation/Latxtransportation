@@ -7,10 +7,7 @@ import Programs from "@/components/programs";
 
 export default function Home() {
   return <main className="min-h-screen">
-    <head>
-      <title>Home  </title>
-    </head>
-
+ 
     <Hero />
     <Programs />  
     </main>;
