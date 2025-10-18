@@ -16,8 +16,8 @@ const oswald = Oswald({
 });
 
 export const metadata: Metadata = {
-  title: "Hospital page",
-  description: "my hospital info",
+  title: "Latxtransportation",
+  description: "Safe & Reliable Medical Transport",
 };
 
 export default function RootLayout({
